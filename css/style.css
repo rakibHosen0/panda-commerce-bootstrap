@@ -1,0 +1,32 @@
+.panda-card {
+  border: 0;
+}
+.panda-footer {
+  border: 0;
+  background-color: white;
+}
+.categories img {
+  width: 100px;
+}
+.panda-slide .carousel-item {
+  background-color: #fceae8;
+  border-radius: 1rem;
+}
+.input-email {
+  padding: 10px;
+  background-color: white;
+  border: 0;
+  color: black;
+  margin-right: 20px;
+}
+.submit-button {
+  padding: 10px 56px;
+  border: 0;
+}
+.submit-button:hover {
+  background-image: linear-gradient(
+    180deg,
+    rgb(226, 142, 128),
+    rgb(148, 235, 235)
+  );
+}
